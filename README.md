@@ -8,18 +8,8 @@ AskWeb is a web-based platform built with **Streamlit** that integrates with **Q
 - **Question Answering with LLM**: Uses advanced language models to understand and respond to a variety of questions.
 - **Real-time Answers**: Retrieves and presents answers based on up-to-date data, processed by LLMs for accuracy and clarity.
 
-## Getting Started
-
-To run AskWeb on your local machine, follow these installation steps.
-
 ### Prerequisites
 
 - Python 3.8+
 - Streamlit
 - Hugging Face Transformers (or any other library that supports question-answering models)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Username/AskWeb-Get-Answer.git
