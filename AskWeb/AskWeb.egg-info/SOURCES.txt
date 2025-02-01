@@ -1,0 +1,11 @@
+setup.py
+AskWeb.egg-info/PKG-INFO
+AskWeb.egg-info/SOURCES.txt
+AskWeb.egg-info/dependency_links.txt
+AskWeb.egg-info/top_level.txt
+Models/Result.py
+Models/__init__.py
+Stream/Fetch_Url.py
+Stream/Get_Data.py
+Stream/Main.py
+Stream/__init__.py

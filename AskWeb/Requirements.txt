@@ -1,0 +1,8 @@
+langchain                                
+requests                         
+huggingface-hub       
+pandas                     
+numpy                  
+langchain_huggingface
+unstructured
+-e .
