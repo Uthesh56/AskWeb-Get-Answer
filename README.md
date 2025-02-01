@@ -22,4 +22,4 @@ To run AskWeb on your local machine, follow these installation steps.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/askweb.git
+   git clone https://github.com/Username/AskWeb-Get-Answer.git
