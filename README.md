@@ -1,6 +1,6 @@
 # ASKWEB : Get Instant Answers
 
-<img src="AskWeb/AskWeb.png" width="200"/>
+<img src="AskWeb/AskWeb.png" width="1000"/>
 
 AskWeb is a web-based platform built with **Streamlit** that integrates with **Question Answering LLM models** to provide real-time, accurate answers to user queries. Users can type their questions, and the system will process them through a powerful LLM to return relevant, context-based information from the web.
 
